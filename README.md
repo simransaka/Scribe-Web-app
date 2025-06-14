@@ -1,5 +1,4 @@
-# Scribe-Web-app
+# Ecommerce WebApp
 <br>
 It is a web application
 <br>
-Welcome to Scribe
